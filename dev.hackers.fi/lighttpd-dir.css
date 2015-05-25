@@ -5,9 +5,10 @@ html { font: 14px/1.4 Raleway, 'Helvetica Neue', Helvetica, sans-serif; color: #
 h2 { font-weight: 200; font-size: 45px; margin: 20px 35px; }
 
 div.list { background: #111; padding: 20px 35px; }
-div.foot { color: #777; margin-top: 15px; padding: 20px 35px; }
+div.foot { color: #777; margin-top: 15px; padding: 20px 35px }
+pre.readme {color: #0099FF; padding: 20px 35px; }
 
-td { padding: 0 20px; line-height: 21px; }
+td { line-height: 21px; }
 tr:hover { background: black; }
 
 a { color: #32C6FF; }
